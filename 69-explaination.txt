@@ -1,0 +1,13 @@
+Here
+After taking the input from a user. 
+We literally set the power of the input to 0.5.
+And used floor division to round it off.
+Finally converted the output to int data type as asked in the problem.
+
+
+Trials - 5
+Forgot:
+ - // for floor division in python
+
+
+Learned - It took way too trials for an easy problem just because i've never worked with python functions. Have to learn it ASAP.
